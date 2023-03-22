@@ -34,12 +34,7 @@ function chooseafruit() {
         console.log("purple");
     }
 }
-
 chooseafruit()
-
-
-
-
 
 
 // 3.   Write a function that adds two numbers together.  Invoke the function.
